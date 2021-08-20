@@ -1,10 +1,24 @@
-# RoofBuild-Mod (Bounded Roof Build Tool)
+# BoundedRoofBuildTool
+
+![Image](https://i.imgur.com/WAEzk68.png)
 
-## Description:
-This mod for Rimworld adds a button to designate roof expansion bounded by where they can be built.
-Source code uploaded for benefit of future modders.
+Update of fyarns mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1104718095
 
-## Updates
+- Added translation strings
+
+![Image](https://i.imgur.com/7Gzt3Rg.png)
+
+	
+![Image](https://i.imgur.com/NOW7jU1.png)
+
+This mod adds a button to designate roof expansion bounded by where they can be built. Useful for seeing how far a roof can extend when planning!
+
+Compatible with existing saves, other mods.
+
+GitHub: https://github.com/fyarn/RoofBuild-Mod
+
+Updates:
 Feb 25 2020
 1.1 Update
 
@@ -20,17 +34,16 @@ B18 Update
 Aug 8 2017
 Initial Release
 
-## Author/Mod Team
-fyarn
+![Image](https://i.imgur.com/Rs6T6cr.png)
 
-## Download
-Github (with Source): https://github.com/fyarn/RoofBuild-Mod
-Direct: https://github.com/fyarn/RoofBuild-Mod/archive/master.zip
-Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=1104718095
 
-## How to install:
-- Unzip the contents and place them in your RimWorld/Mods folder.
-- Activate the mod in the mod menu in the game.
-- No known mod incompatibilities/need for a new save.
 
-Released under MIT License, please go ahead and include in modpacks or build off of this mod itself.
+-  See if the the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
+
+
+

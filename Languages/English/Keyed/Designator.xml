@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BRBT_Label>Bounded build roof area</BRBT_Label>
+  <BRBT_Description>Colonists will build roofs in this area. Does not select unroofable areas.</BRBT_Description>
+</LanguageData>

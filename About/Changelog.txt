@@ -1,4 +1,7 @@
 # Changelog for BoundedRoofBuildTool
 
+1.0.2.0 - Last update, added end-of-life message
+
+
 1.0.1.0 - Updated to 1.3
 
